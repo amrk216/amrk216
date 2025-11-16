@@ -1,6 +1,12 @@
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkycHc2YXN0OWxvcWhoaTd4OXpvY2k1OHpkMWtsZmk4d3M0ZXV6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-</div>
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxqdmhncGx1cG1mYmhyNDVrZWMwMzI5dmY3cjhycnp4bDNhODA3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+
+###
+
+<h1 align="center">Hi, I'm --> Amr Khaled</h1>
+
+###
+
+<h1 align="center">Data Scientist | Skilled in Python, Machine Learning & Data Analysis | Passionate About Turning Data into Insights & Building Data-Driven Solutions</h1>
 
 ###
 
@@ -24,16 +30,7 @@
 
 ###
 
-<h1 align="center">Hi, I’m Amr — a Data Scientist passionate about building intelligent ML solutions.👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -89,6 +86,16 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amr216&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/amr216/amr216/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
