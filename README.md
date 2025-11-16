@@ -23,28 +23,26 @@ I have built predictive models and text-processing solutions that boosted decisi
 - MongoDB
 
 ### ✅ Data Analysis & Visualization
-- Pandas
-- NumPy# 💫 About Me
+## 💫 About Me
 
-🛠️ **I’m currently working on**  
-Building end-to-end data science projects using Machine Learning, Deep Learning, and NLP.
+🔧 **Working On:**  
+Building complete Machine Learning & Deep Learning systems with real-world data pipelines.
 
-🤝 **I’m looking to collaborate on**  
-Open-source ML projects, NLP pipelines, and data visualization dashboards.
+🤝 **Collaboration:**  
+Open-source ML · NLP · Computer Vision · Data Visualization.
 
-👐 **I’m looking for help with**  
-Improving ML deployment using FastAPI, Docker, and cloud workflows.
+📦 **Need Help With:**  
+FastAPI deployment · Dockerization · Cloud workflow automation.
 
-🌱 **I’m currently learning**  
-Advanced Deep Learning, Recommender Systems, and Data Engineering.
+🌱 **Learning:**  
+Advanced DL · Recommenders · Data Engineering & SQL optimization.
 
-💬 **Ask me about**  
-Machine Learning, Deep Learning, NLP, Data Analysis, Python, and ML pipelines.
+💡 **Ask Me About:**  
+ML · DL · NLP · Python · Data Analysis · Model Tuning.
 
-⚡ **Fun fact**  
-I built a neural network from scratch including manual backpropagation.
+⚡ **Fun Fact:**  
+I built a fully functioning neural network from scratch with manual backpropagation.
 
----
 
 <!-- ========== TOP TECH ICONS ========== -->
 <div align="center">
