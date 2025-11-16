@@ -1,6 +1,3 @@
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxqdmhncGx1cG1mYmhyNDVrZWMwMzI5dmY3cjhycnp4bDNhODA3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
-
-###
 
 <h1 align="center">Hi, I'm --> Amr Khaled</h1>
 
