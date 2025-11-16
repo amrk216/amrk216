@@ -24,7 +24,107 @@ I have built predictive models and text-processing solutions that boosted decisi
 
 ### ✅ Data Analysis & Visualization
 - Pandas
-- NumPy
+- NumPy# 💫 About Me
+
+🛠️ **I’m currently working on**  
+Building end-to-end data science projects using Machine Learning, Deep Learning, and NLP.
+
+🤝 **I’m looking to collaborate on**  
+Open-source ML projects, NLP pipelines, and data visualization dashboards.
+
+👐 **I’m looking for help with**  
+Improving ML deployment using FastAPI, Docker, and cloud workflows.
+
+🌱 **I’m currently learning**  
+Advanced Deep Learning, Recommender Systems, and Data Engineering.
+
+💬 **Ask me about**  
+Machine Learning, Deep Learning, NLP, Data Analysis, Python, and ML pipelines.
+
+⚡ **Fun fact**  
+I built a neural network from scratch including manual backpropagation.
+
+---
+
+<!-- ========== TOP TECH ICONS ========== -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" />
+</div>
+
+---
+
+## 🌐 Socials
+<div align="center">
+  <a href="https://linkedin.com/in/amrkhaledsalama" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.facebook.com/amr.khaled.737575" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25" />
+</div>
+
+---
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amr216&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=amr216&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
+</div>
+
+---
+
+# 🟨 Pacman Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amr216/amr216/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amr216/amr216/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/amr216/amr216/output/pacman-contribution-graph.svg" />
+</picture>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=amr216&icon=1&color=1)](https://visitcount.itsvg.in)
+
 - Matplotlib
 - Seaborn
 - Tableau
