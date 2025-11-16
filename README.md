@@ -30,9 +30,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">🔧 **Working On:**  <br>Building complete Machine Learning & Deep Learning systems with real-world data pipelines.<br><br>🤝 **Collaboration:**  <br>Open-source ML · NLP · Computer Vision · Data Visualization.<br><br>📦 **Need Help With:**  <br>FastAPI deployment · Dockerization · Cloud workflow automation.<br><br>🌱 **Learning:**  <br>Advanced DL · Recommenders · Data Engineering & SQL optimization.<br><br>💡 **Ask Me About:**  <br>ML · DL · NLP · Python · Data Analysis · Model Tuning.<br><br>⚡ **Fun Fact:**  <br>I built a fully functioning neural network from scratch with manual backpropagation.</p>
 
 ###
 
