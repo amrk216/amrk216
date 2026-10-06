@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">Data Scientist | Skilled in Python, Machine Learning & Data Analysis | Passionate About Turning Data into Insights & Building Data-Driven Solutions</h1>
+<h1 align="center">AI Engineer | ML, NLP & LLM Applications | Data Science Background | RAG & AI Agents</h1>
 
 ###
 
